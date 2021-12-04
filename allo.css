@@ -1,0 +1,50 @@
+.ffff{
+    text-shadow:1px 2px 1px  cadetblue;
+}
+
+.al{
+    text-align: center;
+    line-height: 10px;
+    font-size: 87.25%;
+   
+}
+.aoo{
+    margin-left: 350px;
+    font-size: 87.25%;
+}
+.av{
+    width:170px;
+    line-height: 0px;
+    background-color: red;
+    height: 1px;
+  
+}
+.ak{
+    text-align: center;
+    line-height: 1px;
+    margin-left: 400px;
+    font-size: 14px;
+
+}
+div> h1{
+    color: #ff6600;
+    font-family:system-ui, system-ui, sans-serif;
+   
+    
+}
+div ol, ul {
+    color: #ff6600;
+}
+#bl{
+    color: black;
+}
+
+ol, ul{
+    line-height: 18px;
+    font-family:system-ui, system-ui, sans-serif;
+   
+}
+::marker{
+    font-size: 28px;
+
+}
